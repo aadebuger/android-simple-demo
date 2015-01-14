@@ -1,3 +1,8 @@
+![demo2](https://cloud.githubusercontent.com/assets/5022872/5733847/a4b85e42-9be4-11e4-9357-5f9498d4206b.png)
+
+![demo1](https://cloud.githubusercontent.com/assets/5022872/5733848/a4dc4a8c-9be4-11e4-94dd-6dd2f92e0b3b.png)
+
+
 ## 介绍
 
 一个 AVOS Cloud 综合型的 Demo，目前做的不够细致，请谅解，演示了大多数功能:
