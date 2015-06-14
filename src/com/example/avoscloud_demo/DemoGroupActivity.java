@@ -34,6 +34,7 @@ public class DemoGroupActivity extends ListActivity {
         if (!config) {
             AVOSCloud.initialize(getApplication(),
                     Config.APP_ID,Config.APP_KEY);
+            AVOSCloud.setBaseUrl("https://api.leancloud.cn/1.1");
             return;
         }
         final Dialog dialog = new Dialog(this);
